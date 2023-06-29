@@ -1,10 +1,4 @@
-from ui_interface import *
-import os
-import sys
 
-
-from PyQt6.QtWidgets import QApplication, QWidget, QMainWindow
-from PyQt6 import QtCore
 
 class MainWindow(QMainWindow):
     def __init__(self, parent=None):

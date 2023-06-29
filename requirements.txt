@@ -1,16 +1,12 @@
+pyside6
 asyncpg
-pyqt6
 pydantic
 
 alembic
 sqlalchemy[asyncio]
-
 python-dotenv
-
 pytest
 loguru
 requests
-
 SQLAlchemy-Utils
 
-pyqt6-tools
